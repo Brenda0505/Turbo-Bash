@@ -7,7 +7,6 @@ versão 1.0
 Uninove - Memorial (Manhã) - Tecnologia em Jogos Digitais
 
 919123752 - Brenda Moraes de Oliveira Ramalho
-
 918110467 - Igor Guedes dos Santos
 919100873 - João Pedro Cadete Furtado
 919120663 - Lara Magalhães Tagliani
